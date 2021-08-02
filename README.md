@@ -9,4 +9,4 @@ Imbalanced data using imbalance methods
 
 - Author=`lerekoqholosha`
 
-- email='lerekoqholosha9'
+- email='lerekoqholosha9@gmail.com'
